@@ -32,8 +32,8 @@ I'm Titouan Guerin, an AI/ML master's student at Sorbonne Université in Paris.
 
 ## Let's Connect! 🌐
 
-Check out my website for more: [pi.titouanguerin.com](https://pi.titouanguerin.com)
-Email: titouanguerin@gmail.com
+- Check out my website for more: [pi.titouanguerin.com](https://pi.titouanguerin.com)
+- Email: titouanguerin@gmail.com
 
 
 
