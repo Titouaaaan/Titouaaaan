@@ -1,12 +1,12 @@
 ## Hey there! 👋
 
-I'm Titouan Guerin, an AI/ML master's student at Sorbonne Université in Paris.
+I'm Titouan, an AI/ML master's student at Sorbonne Université in Paris.
 
 ## What I'm Into 🌟
 
-- **AI & Machine Learning**: Love diving into reinforcement learning and the math behind AI.
-- **Research**: Built backend systems for multi-agent apps and co-authored a research paper.
-- **Software Development**: I try and create stuff, check out my public repos.
+I'm really into AI and ML, especially when applied to themes that interest me, like video games. 
+I enjoy diving into reinforcement learning and exploring the mathematical foundations of AI.
+The mix of AI and video games is particularly exciting to me, and I'll be making more projects that revolve around that.
 
 ## Projects 🚀
 
@@ -22,6 +22,7 @@ I'm Titouan Guerin, an AI/ML master's student at Sorbonne Université in Paris.
 
 ## Skills 🛠️
 
+What i've been using recently:
 - **Languages**: Python, TypeScript
 - **Frameworks & Libraries**: PyTorch, NumPy, Gymnasium, Next.js, React, FastAPI
 - **Tools**: GitHub, LangChain
@@ -29,11 +30,3 @@ I'm Titouan Guerin, an AI/ML master's student at Sorbonne Université in Paris.
 ## GitHub Stats 📊
 
 ![Titouan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Titouaaaan&show_icons=true&theme=radical)
-
-## Let's Connect! 🌐
-
-- Check out my website for more: [pi.titouanguerin.com](https://pi.titouanguerin.com)
-- Email: titouanguerin@gmail.com
-
-
-
