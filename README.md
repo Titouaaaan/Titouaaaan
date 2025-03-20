@@ -28,5 +28,5 @@ What i've been using recently:
 - **Tools**: GitHub, LangChain
 
 ## GitHub Stats 📊
-
+I'm working on improving that lol
 ![Titouan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Titouaaaan&show_icons=true&theme=radical)
