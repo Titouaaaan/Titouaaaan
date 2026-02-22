@@ -69,7 +69,4 @@ Competitive Programming Club · Linear Algebra · Algorithms & Complexity
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Titouaaaan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titouaaaan&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Titouaaaan?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
