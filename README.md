@@ -25,10 +25,10 @@ My main interest right now is **reinforcement learning** but i've also worked a 
 | Project | Description |
 |---|---|
 | [**RL-Souls**](https://github.com/Titouaaaan/RL-Souls) | Model-free RL algorithms trained to beat Dark Souls III using a custom Gymnasium environment |
-| [**NN from Scratch**](https://github.com/Titouaaaan/NN-from-Scratch) | Fully modular neural network library built with NumPy only — conv layers, pooling, SGD, PCA, K-Means |
+| [**NN from Scratch**](https://github.com/Titouaaaan/NN-from-Scratch) | Fully modular neural network library built with NumPy only: implemented conv layers, pooling, SGD, PCA, K-Means |
 | [**LLM-RAG**](https://github.com/Titouaaaan/LLM-RAG) | Experimental RAG pipeline combining SPLADE retrieval, BM25, and Chain-of-Thought reasoning |
 | [**GRLA**](https://github.com/redscarfx/GRLA) | Reproduction of a lightweight image super-resolution architecture bridging softmax and linear attention via Gaussian RBF kernels (ICLR 2025 submission) |
-| [**LLM Multi-Agent System**](https://github.com/Titouaaaan) | LangGraph-powered multi-agent system — the backbone of the PRIMA conference paper |
+| [**LLM Multi-Agent System**](https://github.com/Titouaaaan) | LangGraph-powered multi-agent system, backend code for an accepted PRIMA conference paper |
 | [**Portfolio App**](https://titouanguerin.com) | Self-hosted fullstack app built with Next.js and FastAPI |
 
 ---
