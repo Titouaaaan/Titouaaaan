@@ -11,6 +11,8 @@ M2 student in **AI & Machine Learning at Sorbonne Université** (Paris),with a s
 
 My main interest right now is **reinforcement learning** but i've also worked a lot on **computer vision** and **large language models**. I also have a soft spot for applying all of this to video games when possible.
 
+31/03/2026: I am currently working on world models and physics informed networks to be used in Model Based RL in the context of my M2 internship (most work is kept private at the moment).
+
 ---
 
 ## Research Experience
