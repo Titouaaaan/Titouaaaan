@@ -15,10 +15,10 @@ PhD Student in ML & AI @ ONERA / Université Paris-Saclay | Deep RL, Physics-Inf
 
 ## Education
 
-**MSc AI & Machine Learning** — Sorbonne Université *(2023 – 2026, took a gap year)*<br>
+- **MSc AI & Machine Learning** — Sorbonne Université *(2023 – 2026, took a gap year)*<br>
 Probabilistic Modeling · Deep Learning · NLP · Reinforcement Learning · LLMs
 
-**BSc Computer Science** — University of Luxembourg *(2020 – 2023)*<br>
+- **BSc Computer Science** — University of Luxembourg *(2020 – 2023)*<br>
 Competitive Programming Club · Linear Algebra · Algorithms & Complexity
 
 ---
