@@ -5,7 +5,6 @@
 </p>
 
 PhD Student in ML & AI @ ONERA / Université Paris-Saclay | Deep RL, Physics-Informed ML
----
 
 ## Research Experience
 
@@ -13,7 +12,6 @@ PhD Student in ML & AI @ ONERA / Université Paris-Saclay | Deep RL, Physics-Inf
 
 - **AI Research Assistant @ AI Robolab**, 2024 — Built a multi-agent LLM system for low-resource language learning (Luxembourgish). Co-authored a peer-reviewed paper presented at [PRIMA 2024](https://doi.org/10.1007/978-3-031-77367-9_29) in Kyoto, Japan.
 
----
 
 ## Education
 
