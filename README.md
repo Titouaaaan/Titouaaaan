@@ -23,4 +23,6 @@ Competitive Programming Club · Linear Algebra · Algorithms & Complexity
 
 ---
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Titouaaaan?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Titouaaaan?cardType=level)](https://git.io/awesome-stats-card)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Titouaaaan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
